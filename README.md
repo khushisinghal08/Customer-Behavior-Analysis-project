@@ -19,3 +19,5 @@ Top 5 performing categories/products Customer segmentation insights Revenue dist
 Key Results & Insights Identified top-performing segments contributing maximum revenue Discovered seasonal/monthly sales trends Highlighted underperforming categories Provided actionable recommendations for business growth This project demonstrates the ability to transform raw data into meaningful business insights.
 
 How to Run the Project 🔹 Python (EDA & Cleaning) Clone the repository Install required libraries: pip install pandas numpy matplotlib seaborn Open Jupyter Notebook Run the notebook step-by-step 🔹 SQL Import cleaned dataset into: PostgreSQL / MySQL / SQL Server Run the provided SQL scripts Execute analytical queries 🔹 Power BI Open the .pbix file Connect to the dataset or SQL database Refresh data Explore the dashboard
+
+Screenshot of Dashboard : https://github.com/khushisinghal08/Customer-Behavior-Analysis-project/blob/main/snapshot%20of%20dashboard
